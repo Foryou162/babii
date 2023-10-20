@@ -11,7 +11,7 @@
   </div>
   <div class="message">
     <h3>[from aaron]</h3>
-    <p>hELLO MADLANG PERSON MABUHAY GOODMORNING</p>
+    <p>Sorry po babi i know naman po nakasalanan ko at  pinag sisihan ko po lahat yun babi kung na lulungkot ka babi sabihin mopo pero kung ayaw mo naman po sabihin ok lang pwede naman po pa tugtug ka ng favorite momusic</p>
   </div>
 </body>
 </html>
