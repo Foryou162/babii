@@ -6,7 +6,7 @@
 <body>
   <div class="circle-photo-container">
     <div class="circle-photo">
-      <img src="image/366967166_298975866134473_8158228155770289536_n.jpg" alt="Circle Photo"> <!-- Replace with your circular photo URL -->
+      <img src="image\393808737_263032633400509_8157130250585409639_n.png" alt="Circle Photo"> <!-- Replace with your circular photo URL -->
     </div>
   </div>
   <div class="message">
